@@ -10,14 +10,14 @@
     <Authors>Dusty</Authors>
     <Description>Faster and true thread-safe asynchronus event handlers for .NET</Description>
     <RepositoryType>git</RepositoryType>
+    <PackageId>AsyncEventHandlers.Signed</PackageId>
     <PackageTags>eventhandler event handler async asynchronus await threadsafe thread safe fast delegate observeable subscriber</PackageTags>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <SignAssembly>False</SignAssembly>
     <GenerateDocumentationFile>False</GenerateDocumentationFile>
     <RepositoryUrl>https://github.com/TheDusty01/AsyncEventHandlers</RepositoryUrl>
-    <Version>3.0.1</Version>
+    <Version>3.0.2</Version>
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\README.md">
